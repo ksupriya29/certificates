@@ -5,7 +5,6 @@ This repository contains my verified academic and professional certifications.
 ## 📜 Certificates Included
 
 - ServiceNow Virtual Internship Program
-- Generative & Agentic AI Engineering Program
 - Frontend Web Development Certification
 - Dynamic Programming (AlgoUniversity)
 - Object-Oriented Programming in Java (CodeChef)
